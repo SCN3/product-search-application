@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "448bd02acf6f1bb9ae5209adca199d11"
+build_time: [1555378639, 158682000]
+inputs:
+  "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.swift": [1555378569, 0]

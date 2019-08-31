@@ -1,0 +1,171 @@
+.control-label {
+    color: white;
+}
+.form-group.required .control-label:after {
+    content:"*";
+    color:red;
+}
+h1.form-header {
+    text-align: center;
+    color: white;
+}
+#infoBar {
+    width: 98%;
+    background-color: #ffe8a1;
+    margin: 0 auto 0 auto;
+    border-radius: 5px;
+    line-height: 40px;
+    display: none;
+}
+.result-table-row {
+    background-color: black;
+    color: white;
+    vertical-align: top;
+}
+.wish-list-table-row {
+    background-color: black;
+    color: white;
+    vertical-align: top;
+    display: none;
+}
+.result-table-row:nth-child(2n) {
+    background-color: #1f1f1f;
+}
+.wish-list-table-row:nth-child(2n) {
+    background-color: #1f1f1f;
+}
+.result-table-row:hover {
+    background-color: #282828;
+}
+.wish-list-table-row:hover {
+    background-color: #282828;
+}
+.btn-customized {
+    color: #212529;
+    background-color: transparent;
+    border: none;
+}
+.btn-customized-page {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    display: none;
+}
+.btn-customized-page:hover {
+    text-decoration: underline;
+    background-color: lightgrey;
+}
+.item-title {
+    color: blue;
+}
+.item-title:hover {
+    text-decoration: underline;
+}
+.item-title:focus {
+    outline: none;
+}
+.material-icons.full-cart {
+    color: #c69500;
+}
+.animate-hide-left {
+    transition:all linear 0.5s;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+.animate-hide-right {
+    transition:all linear 0.5s;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+.animate-hide-left.ng-hide {
+    left: -100%;
+}
+.animate-hide-right.ng-hide {
+    left: 100%;
+}
+.my-tabs {
+    color: black;
+    width: 100px;
+}
+.info-tab-row {
+    background-color: #1f1f1f;
+    color: white;
+    vertical-align: top;
+}
+.info-tab-row:nth-child(2n) {
+    background-color: black;
+}
+td {
+    font-weight: 500;
+}
+.product-images-p {
+    color: #0c5460;
+    cursor: pointer;
+    display: inline;
+}
+.image-frame {
+    border-radius: 0.25rem;
+    border: black solid 8px;
+    background-color: white;
+}
+.product-images-img {
+    width: 98%;
+    margin: 1% 1% 1% 1%;
+}
+.shipping-tab-row {
+    background-color: #1f1f1f;
+    color: white;
+    vertical-align: top;
+}
+.shipping-tab-row:nth-child(2n) {
+    background-color: black;
+}
+.seller-tab-row {
+    background-color: #1f1f1f;
+    color: white;
+    vertical-align: top;
+}
+.seller-tab-row:nth-child(2n) {
+    background-color: black;
+}
+.progress-wrapper{
+    position: relative;
+    width: 44px;
+}
+.progress-wrapper .text {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+p.similar-product-name {
+    color: #0c5460;
+    display: inline;
+}
+p.similar-product-name:hover {
+    text-decoration: underline;
+}
+p.similar-price {
+    color: #1c7430;
+    display: inline;
+}
+p.similar-shipping-cost {
+    color: #c69500;
+    display: inline;
+}
+p.similar-days-left {
+    color: white;
+    display: inline;
+}
+img.phots-tab-image {
+    border: black solid 10px;
+    margin: 5px 5px 5px 5px;
+    width: 100%;
+    cursor: pointer;
+}

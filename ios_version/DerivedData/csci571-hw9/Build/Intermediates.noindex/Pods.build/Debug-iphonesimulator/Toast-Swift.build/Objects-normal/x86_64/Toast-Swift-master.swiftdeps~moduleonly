@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b7fd29e0ad8c8f30638b65bcc7312564"
+build_time: [1555448674, 281833000]
+inputs:
+  "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/Pods/Toast-Swift/Toast/Toast.swift": [1555448670, 0]

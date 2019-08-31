@@ -1,0 +1,12 @@
+module SwiftyJSON {
+  umbrella header "SwiftyJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module SwiftyJSON.Swift {
+  header "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/DerivedData/csci571-hw9/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+  requires objc
+}

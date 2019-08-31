@@ -1,0 +1,12 @@
+module Toast_Swift {
+  umbrella header "Toast-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module Toast_Swift.Swift {
+  header "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/DerivedData/csci571-hw9/Build/Products/Debug-iphonesimulator/Toast-Swift/Swift Compatibility Header/Toast_Swift-Swift.h"
+  requires objc
+}

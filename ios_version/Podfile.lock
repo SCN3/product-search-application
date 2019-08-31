@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - McPicker (2.0.1)
+  - SwiftSpinner (1.6.2)
+  - SwiftyJSON (4.2.0)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.4.0)
+  - McPicker
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.2.0)
+  - Toast-Swift (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - McPicker
+    - SwiftSpinner
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  McPicker: a0a6b8ece8f1642e05401a29867463aba501188b
+  SwiftSpinner: 3a4c6dea425e5a31b908a8b1dd5dcd1ad4d96340
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: c3d32fb79fd3bd5d952fba2de4bfdc6a0b7ee031
+
+COCOAPODS: 1.6.1

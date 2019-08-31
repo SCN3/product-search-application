@@ -1,0 +1,12 @@
+module Alamofire {
+  umbrella header "Alamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module Alamofire.Swift {
+  header "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/DerivedData/csci571-hw9/Build/Products/Debug-iphonesimulator/Alamofire/Swift Compatibility Header/Alamofire-Swift.h"
+  requires objc
+}

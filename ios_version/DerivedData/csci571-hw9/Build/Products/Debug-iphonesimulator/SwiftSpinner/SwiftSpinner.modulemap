@@ -1,0 +1,12 @@
+module SwiftSpinner {
+  umbrella header "SwiftSpinner-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module SwiftSpinner.Swift {
+  header "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/DerivedData/csci571-hw9/Build/Products/Debug-iphonesimulator/SwiftSpinner/Swift Compatibility Header/SwiftSpinner-Swift.h"
+  requires objc
+}

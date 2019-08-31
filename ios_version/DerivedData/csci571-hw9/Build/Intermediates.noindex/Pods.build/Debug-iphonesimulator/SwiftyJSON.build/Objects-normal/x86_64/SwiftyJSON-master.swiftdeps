@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c790c66fea13fbd68877ba510c38df22"
+build_time: [1555448678, 802686000]
+inputs:
+  "/Users/scn3/Documents/USC/Viterbi Courses/CSCI 571/Homeworks/9/csci571-hw9/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1555448670, 0]
